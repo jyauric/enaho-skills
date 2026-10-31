@@ -1,0 +1,10 @@
+Validación ENAHO 2024
+
+[OK] Llave de hogar única en sumaria (33,691 filas)
+[OK] Llave de persona única entre residentes (108,664 filas)
+[OK] La unión no pierde ni duplica filas (108,664 -> 108,664)
+[OK] Todas las personas encuentran su hogar (sin hogar: 0)
+[OK] Hogares = 33,691 (obtenido 33,691)
+[OK] Personas residentes = 108,664 (obtenido 108,664)
+[OK] Pobreza ponderada (facpob07) ≈ 27.6 % ± 0.1 (obtenido 27.53 %)
+[OK] Pobreza extrema ponderada (facpob07) ≈ 5.5 % ± 0.1 (obtenido 5.50 %)
