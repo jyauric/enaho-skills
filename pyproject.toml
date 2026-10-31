@@ -1,7 +1,7 @@
 [project]
 name = "enaho-skills"
 version = "0.1.0"
-description = "Add your description here"
+description = "Skills de Claude Code para limpiar, graficar y mapear la ENAHO 2024"
 readme = "README.md"
 authors = [
     { name = "jyauric", email = "jyauric@gmail.com" }

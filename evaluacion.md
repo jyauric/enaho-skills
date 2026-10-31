@@ -1,8 +1,9 @@
 # Evaluación: tres pedidos con y sin skills
 
 Corrido el 31/10/2026 con Claude Code 2.1.316 en modo no interactivo (`claude -p`). Cada corrida se hizo en una copia
-limpia y separada, sin la base limpia (`salidas/personas_2024.parquet`) ni salidas previas, como quien acaba de clonar
-el repositorio y bajar los datos.
+limpia y separada, como quien acaba de clonar el repositorio y bajar los datos: sin la base limpia
+(`salidas/personas_2024.parquet`, que no se sube al repo). Las figuras y el mapa versionados sí estaban, así que las
+corridas los sobrescribieron.
 
 | Modo | Dónde | Comando |
 |---|---|---|

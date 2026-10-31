@@ -26,7 +26,7 @@ uv sync
 
 ## 2. Bajar los datos
 
-Los microdatos no se suben al repositorio (`datos/` está en `.gitignore`). Bájelos desde el navegador a una carpeta
+Los microdatos no se suben al repositorio (`datos/` está en `.gitignore`). Bájalos desde el navegador a una carpeta
 `datos/` en la raíz, **sin descomprimir los zip**:
 
 | Archivo | Enlace | Qué es |
